@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\base_header_title_bar.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\base_header_title_bar.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_welfare.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_welfare.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_detail.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_movie_detail.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_header_base.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_header_base.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_test.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_one_movie_detail.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_one_movie_detail.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_slide.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_custom.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_custom.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_movie_header.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_movie_header.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_base.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_item_book.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\header_item_book.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_book_detail.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\header_book_detail.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_android.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_android.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_one.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_one.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_two.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_everyday_two.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_gank.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_gank.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_home_page.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_nav_home_page.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_movie_detail_person.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_movie_detail_person.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_everyday.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_everyday.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_three.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_everyday_three.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_deed_back.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_nav_deed_back.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_douban_top.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_douban_top.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_book.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_book.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_slide_shape.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\header_slide_shape.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\header_item_everyday.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\header_item_everyday.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transition.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_transition.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_book_detail.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_book_detail.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_book.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_book.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_base.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_base.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_title.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_everyday_title.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide_shade_view.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_slide_shade_view.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_android.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_android.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\footer_item_everyday.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\footer_item_everyday.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\footer_item_book.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\footer_item_book.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_list.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_empty.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_empty.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_everyday_one.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_everyday_one.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_book_custom.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_book_custom.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\app_bar_main.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_download.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_nav_download.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_douban_top.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_douban_top.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_welfare.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_welfare.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_slide_scrool_view.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_slide_scrool_view.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_movie_detail.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\item_movie_detail.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header_main.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_one.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\fragment_one.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_middle_layout.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\home_middle_layout.xml"
+    },
+    {
+        "merged": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_nav_about.xml",
+        "source": "E:\\MyProject\\EBusiness\\AndroidWorkSpace\\OsChina\\CloudReader\\app\\src\\main\\res\\layout\\activity_nav_about.xml"
+    }
+]
